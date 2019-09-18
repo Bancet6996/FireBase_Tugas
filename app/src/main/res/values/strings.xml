@@ -1,0 +1,9 @@
+<resources>
+    <array name="genre">
+        <item>Ballad</item>
+        <item>Rock</item>
+        <item>Metal</item>
+    </array>
+
+    <string name="app_name">FireBase (Tugas)</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547106688053",
+    "firebase_url": "https://fir-tugas-b030c.firebaseio.com",
+    "project_id": "fir-tugas-b030c",
+    "storage_bucket": "fir-tugas-b030c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547106688053:android:6df8421dc149b757d7b57c",
+        "android_client_info": {
+          "package_name": "com.example.firebasetugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547106688053-o3m692l0omtj1hct29glo07v3f861us3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetugas",
+            "certificate_hash": "d728e65119a2c615981e06e11a14c97158a2f768"
+          }
+        },
+        {
+          "client_id": "547106688053-57f2umgovurpm7frmprrbfdco25o5l0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPZRX23aUq4SsH1o-WNfK-330M8aWUAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547106688053-57f2umgovurpm7frmprrbfdco25o5l0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
