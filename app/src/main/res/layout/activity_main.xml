@@ -17,13 +17,12 @@
 
     <EditText
         android:id="@+id/etxNama"
-        android:layout_width="210dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="14dp"/>
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
     <Spinner
         android:id="@+id/spnGenre"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:entries="@array/genre"
         android:layout_marginLeft="14dp"
@@ -31,15 +30,15 @@
 
     <Button
         android:id="@+id/btnKirim"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="14dp"
         android:layout_marginTop="35dp"
         android:text="Kirim"/>
 
     <ListView
         android:id="@+id/listView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:layout_marginTop="21dp"/>
 
 </LinearLayout>

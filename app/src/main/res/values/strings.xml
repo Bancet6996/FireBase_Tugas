@@ -3,6 +3,10 @@
         <item>Ballad</item>
         <item>Rock</item>
         <item>Metal</item>
+        <item>Pop</item>
+        <item>Core</item>
+        <item>Gothic</item>
+        <item>Folk</item>
     </array>
 
     <string name="app_name">FireBase (Tugas)</string>
